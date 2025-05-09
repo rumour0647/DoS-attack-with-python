@@ -1,8 +1,8 @@
 # DoS-attack-with-python
 DoS attack
-To run it in linux terminal simply paste these commands:
-1. sudo apt update && apt upgrade
+Инстрикции:
+1. Отворете команден прозорец в windows
 2. git clone https://github.com/rumour0647/DoS-attack-with-python.git
-3. cd DoS-attack-with-python
-4. chmod +x dos.py
-5. python dos.py (if it doesnt work consider using "python2 dos.py" or "python3 dos.py")
+cd DoS-attack-with-python
+3. pip install requests
+4. python dos.py
