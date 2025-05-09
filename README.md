@@ -1,8 +1,7 @@
 # DoS-attack-with-python
 DoS attack
 To run it in linux terminal simply paste these commands:
-1. apt update && apt upgrade
-   (if on kali linux just put sudo infront)
+1. sudo apt update && apt upgrade
 2. git clone https://github.com/rumour0647/DoS-attack-with-python.git
 3. cd DoS-attack-with-python
 4. chmod +x dos.py
